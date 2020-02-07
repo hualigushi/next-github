@@ -1,0 +1,57 @@
+Skip to content
+Search or jump to…
+
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@hualigushi 
+sl1673495
+/
+next-github
+0
+209
+ Code Issues 2 Pull requests 0 Actions Projects 0 Wiki Security Insights
+next-github/.gitignore
+@sl1673495 sl1673495 feat: 初始化项目
+0231e34 on 13 Aug 2019
+25 lines (19 sloc)  277 Bytes
+  
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# next.js
+/.next/
+/out/
+
+# production
+/build
+
+# misc
+.DS_Store
+.env*
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+© 2020 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
